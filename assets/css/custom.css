@@ -24,7 +24,7 @@
 
 [property="links"] {
 	display: block;
-	margin-top: 10px;
+	margin-top: 0px;
     text-decoration: none;
 }
 
@@ -117,4 +117,10 @@
 
 [property="citation"] {
     padding-left: 25px;
+}
+
+/* News list with larger bullets */
+.news-list li::marker {
+    font-size: 1.5em;
+    line-height: 0.8;
 }

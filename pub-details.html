@@ -3,6 +3,18 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-CGK80MVJKG"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag()
+            {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'G-CGK80MVJKG');
+        </script>
         <title>Emelia Hughes</title>
         <meta name="description" content="Themebau">
         <meta name="author" content="RunWebRun">
@@ -43,8 +55,8 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a href="news.html" class="nav-link">
-                            <span class="nav-link-name">news</span>
+                        <a href="publications.html" class="nav-link">
+                            <span class="nav-link-name">publications</span>
                         </a>
                     </li>
                     <li class="nav-item">
@@ -116,8 +128,8 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="news.html" class="nav-link">
-                                <span class="nav-link-name">news</span>
+                            <a href="publications.html" class="nav-link">
+                                <span class="nav-link-name">publications</span>
                             </a>
                         </li>
                         <li class="nav-item">
@@ -193,32 +205,32 @@
                                     </span>
                                     <BR>
                                     <i><span style="color: gray;" property="conference_full_name">Full Conference Name</span></i><BR>
-                                    <a href="null" property="conference url">
+                                    <a href="null" property="conference url" target="_blank">
                                         <span property="conference">Conference</span>
                                         <span property="year">Year</span>
                                     </a>
-                                    <span class="btn btn-xs btn-warning [if(!award, 'hide-on-read')]" style="padding-top:2px;"><img src="assets/images/icons/award.png" style="margin-bottom: 0px;width: 22px; height:22px;"> <span property="award">Award</span></span>
+                                    <span class="btn btn-xs btn-warning [if(!award, 'hide-on-read')]" style="padding-top:2px; border-radius: 4px;"><img src="assets/images/icons/award.png" style="margin-bottom: 0px;width: 22px; height:22px;"> <span property="award">Award</span></span>
                                     <BR>
                                     <span property="links">
-                                        <a href="null" property="pdf_url" class="button">
+                                        <a href="null" property="pdf_url" class="button" target="_blank">
                                             <img src="assets/images/icons/pdf.png"><span>PDF</span>
                                         </a>
-                                        <a href="null" property="website_url" class="button">
+                                        <a href="null" property="website_url" class="button" target="_blank">
                                             <img src="assets/images/icons/link.png"><span> Website</span>
                                         </a>
-                                        <a href="null" property="code_url" class="button">
+                                        <a href="null" property="code_url" class="button" target="_blank">
                                             <img src="assets/images/icons/code.png"><span> Code</span>
                                         </a>
-                                        <a href="null" property="data_url" class="button">
+                                        <a href="null" property="data_url" class="button" target="_blank">
                                             <img src="assets/images/icons/database.png"><span> Data</span>
                                         </a>
-                                        <a href="null" property="slides_url" class="button">
+                                        <a href="null" property="slides_url" class="button" target="_blank">
                                             <img src="assets/images/icons/slides.png"><span>Slides</span>
                                         </a>
-                                        <a href="null" property="video_url" class="button">
+                                        <a href="null" property="video_url" class="button" target="_blank">
                                             <img src="assets/images/icons/video.png"><span> Video</span>
                                         </a>
-                                        <a href="null" property="talk_url" class="button">
+                                        <a href="null" property="talk_url" class="button" target="_blank">
                                             <img src="assets/images/icons/video.png"><span> Talk</span>
                                         </a>
                                     </span>
@@ -227,9 +239,11 @@
                                     <B>Abstract:</B><BR>
                                     <span property="abstract" class="tinymce">Abstract</span>
                                     <BR>
-                                    <BR>
-                                    <B>Bibtex:</B><BR>
-                                    <div style="font-family: Courier;" property="bibtex" class="markdown">Bibtex</div>
+                                    <div mv-if="bibtex">
+                                        <BR>
+                                        <B>Bibtex:</B><BR>
+                                        <div style="font-family: Courier;" property="bibtex" class="markdown">Bibtex</div>
+                                    </div>
                             </article>
                         </div>
                     </div>
