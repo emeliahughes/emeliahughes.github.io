@@ -190,7 +190,7 @@
             <div class="container-fluid justify-content-center">
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 line">
-                        <div mv-bar="no-login" mv-app="publications" mv-plugins="tinymce markdown" id="[url('id')]" mv-permissions="read logout delete add edit save" mv-storage="https://github.com/emeliahughes/personal-website/src/html/data/publications.json">
+                        <div mv-bar="no-login" mv-app="workshop-papers" mv-plugins="tinymce markdown" id="[url('id')]" mv-permissions="read logout delete add edit save" mv-storage="https://github.com/emeliahughes/personal-website/src/html/data/workshop-papers.json">
                             <meta property="selectedPub" mv-value="url('id')" />
                             <article class="row justify-content-center" property="paper" mv-multiple mv-multiple-path="id=[url('id')]">
                                 <div class="col-xs-8 col-sm-3 col-md-3 col-lg-3">
@@ -209,6 +209,7 @@
                                         <span property="conference">Conference</span>
                                         <span property="year">Year</span>
                                     </a>
+                                    <span class="btn btn-xs [if(!is_preprint, 'hide-on-read')]" style="padding: 2px 6px; font-size: 11px; background-color: #6c757d; color: white; border-color: #6c757d; margin-left: 5px; border-radius: 4px;">Preprint</span>
                                     <span class="btn btn-xs btn-warning [if(!award, 'hide-on-read')]" style="padding-top:2px; border-radius: 4px;"><img src="assets/images/icons/award.png" style="margin-bottom: 0px;width: 22px; height:22px;"> <span property="award">Award</span></span>
                                     <BR>
                                     <span property="links">
