@@ -1,0 +1,125 @@
+{
+    "overview": "I study how algorithmically curated platforms shape online communities, identity, visibility, and influence. I am especially interested in how people perceive and position themselves relative to communities they encounter through a feed—even without formally joining a group or forming explicit social ties.",
+    "framework": [
+        {"step": "Encounter", "text": "People come across recurring content, people, and practices in a curated feed."},
+        {"step": "Recognition", "text": "They begin to perceive shared norms, boundaries, audiences, or identities."},
+        {"step": "Positioning", "text": "They understand themselves as a member, observer, outsider, adjacent participant, or refuser."}
+    ],
+    "dissertation": {
+        "title": "Feed-Based Community and Algorithmic Social Perception",
+        "description": "My dissertation examines how users encounter patterns of content, people, and practices through algorithmically curated feeds, come to perceive possible communities around them, and position themselves in relation to those communities without explicit social ties or formal membership. This work develops feed-based community as a way to understand community recognition, belonging, boundaries, misalignment, and refusal in algorithmically mediated environments.",
+        "questions": [
+            "How do users recognize communities through algorithmically curated feeds?",
+            "How do they infer boundaries, norms, audiences, and membership without formal joining?",
+            "How do users position themselves as members, observers, outsiders, adjacent participants, or refusers?",
+            "How do platforms allocate visibility in ways that shape community perception?"
+        ]
+    },
+    "clusters": [
+        {
+            "title": "Algorithmic Communities and Social Perception",
+            "description": "How people encounter, recognize, and understand their relationship to communities made visible through algorithmically curated feeds.",
+            "projects": [
+                {
+                    "id": "rushtok",
+                    "title": "RushTok",
+                    "summary": "A dissertation anchor case centered on RushTok, the annual wave of TikTok content documenting sorority recruitment—especially at the University of Alabama. The study examines how an event becomes an algorithmically assembled community and how viewers recognize, interpret, and position themselves in relation to it.",
+                    "methods": "Interviews, content analysis, event-based community analysis",
+                    "status": "Completed",
+                    "link": null,
+                    "publicationId": "rushtok-an-evaluation-of-event-based-communities-on-tiktok"
+                },
+                {
+                    "id": "tokornot",
+                    "title": "TokOrNot",
+                    "summary": "An experimental study of how people distinguish their own preferences from a video's perceived popularity and realized reach on TikTok. I designed and developed TokOrNot, a web-based research tool that makes these judgments observable and comparable.",
+                    "methods": "Experiments, system design",
+                    "status": "In progress",
+                    "link": null,
+                    "publicationId": null
+                },
+                {
+                    "id": "winter-boots",
+                    "title": "Winter Boots",
+                    "summary": "A TikTok content-analysis project examining how users subvert platform affordances through the “winter boots” trend. It traces how coded language, trend participation, and visibility tactics work around platform constraints while producing shared recognition and community.",
+                    "methods": "Content analysis, qualitative coding",
+                    "status": "In progress",
+                    "link": null,
+                    "publicationId": null
+                }
+            ]
+        },
+        {
+            "title": "Visibility, Influence, and Platform Signals",
+            "description": "How users interpret metrics, rankings, interface cues, and incomplete evidence about popularity, credibility, reach, and influence.",
+            "projects": [
+                {
+                    "id": "truth-social",
+                    "title": "Truth Social",
+                    "summary": "A network analysis project examining echo chambers, information brokers, and event-driven visibility shifts on Truth Social.",
+                    "methods": "Network analysis, large-scale data collection",
+                    "status": "Completed",
+                    "link": null,
+                    "publicationId": "echo-chambers-information-brokers-truth-social"
+                },
+                {
+                    "id": "savethechildren",
+                    "title": "#SaveTheChildren",
+                    "summary": "A study of how QAnon co-opted #SaveTheChildren on Instagram, using concern about child trafficking to draw people toward a broader conspiracy movement. The project examines how activism, misinformation, and networked moral panic became entangled under a shared moral frame.",
+                    "methods": "Qualitative coding, content analysis",
+                    "status": "Completed",
+                    "link": null,
+                    "publicationId": "misinformation-or-activism-mapping-networked-moral-panic-savethechildren"
+                }
+            ]
+        },
+        {
+            "title": "Publics, Credibility, and Information Systems",
+            "description": "How platform structures shape misinformation, credibility, political communities, and bounded or hardened publics.",
+            "projects": [
+                {
+                    "id": "viblio",
+                    "title": "Viblio",
+                    "summary": "A design and evaluation project exploring how people assess credibility while watching YouTube. I designed and developed Viblio, a browser extension and companion application that lets viewers add and inspect time-linked citations and contextual credibility signals without leaving the video.",
+                    "methods": "Contextual inquiry, prototyping, user evaluation",
+                    "status": "Completed",
+                    "link": null,
+                    "publicationId": "viblio-introducing-credibility-signals-and-citations-to-video-sharing-platforms"
+                },
+                {
+                    "id": "youth-online-safety",
+                    "title": "Youth Online Safety",
+                    "summary": "A project examining mainstream news media narratives around youth online safety and the public framing of risk, responsibility, and platform governance.",
+                    "methods": "Systematic media review, qualitative analysis",
+                    "status": "Completed",
+                    "link": null,
+                    "publicationId": "examining-mainstream-news-media-narratives-youth-online-safety"
+                }
+            ]
+        },
+        {
+            "title": "Research Tools and Infrastructure",
+            "description": "Systems I build to support experiments and qualitative social media research.",
+            "projects": [
+                {
+                    "id": "qual-coder",
+                    "title": "Qual-Coder",
+                    "summary": "A custom qualitative coding platform for video-based social media research, supporting project-based coding, multiple coders, draft saving, submissions, and progress tracking.",
+                    "methods": "Tool-building, research infrastructure",
+                    "status": "Internal research tool",
+                    "link": null,
+                    "publicationId": null
+                },
+                {
+                    "id": "tokornot-system",
+                    "title": "TokOrNot System",
+                    "summary": "Experimental web platform for studying TikTok visibility and user perception of reach versus preference.",
+                    "methods": "System design, experiments",
+                    "status": "Research infrastructure",
+                    "link": null,
+                    "publicationId": null
+                }
+            ]
+        }
+    ]
+}

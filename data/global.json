@@ -1,6 +1,6 @@
 {
     "template_name": "themebau",
-    "copyright": "© 2022 | Emelia May Hughes",
+    "copyright": "© 2026 | Emelia May Hughes",
     "navbar": "top",
     "navbar_dark": false,
     "navbar_mobile": "style-2",
@@ -22,17 +22,20 @@
         "index.html": {
             "name": "home"
         },
+        "research.html": {
+            "name": "research"
+        },
         "publications.html": {
             "name": "publications"
         },
-        "art-portfolio.html": {
-            "name": "painting"
+        "teaching.html": {
+            "name": "teaching"
         },
-        "resume.html": {
-            "name": "resume"
+        "cv.html": {
+            "name": "cv"
         },
         "about-me.html": {
-            "name": "about me"
+            "name": "about"
         }
     },
     "icon": {
