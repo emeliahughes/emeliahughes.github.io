@@ -1,0 +1,768 @@
+{
+  "schemaVersion": 1,
+  "url": "https://emeliahughes.com/research-index.json",
+  "author": "Emelia Hughes",
+  "description": "Public research catalog. Preprints, proposals, and published contributions retain separate status and evidence scope.",
+  "papers": [
+    {
+      "id": "ephemeral-feeds-and-enduring-rituals",
+      "url": "https://emeliahughes.com/publications/ephemeral-feeds-and-enduring-rituals.html",
+      "title": "Ephemeral Feeds and Enduring Rituals: RushTok and the Formation of Event-Based Algorithmic Communities",
+      "authors": [
+        "Emelia Hughes",
+        "Tim Weninger"
+      ],
+      "year": "2026",
+      "venue": "arXiv preprint",
+      "publicationType": "preprint",
+      "status": "preprint",
+      "doi": null,
+      "arxivId": "2609.09331",
+      "preferredCitationUrl": "https://arxiv.org/abs/2609.09331",
+      "abstract": "Each August, TikTok's For You page turns the University of Alabama's sorority recruitment into RushTok. We examine RushTok as an event-based algorithmic community: a collective assembled around a bounded offline ritual and sustained by recommendation. Using a mixed-methods survey (n=71) and a reflexive account of creator outreach, we ask who participates, how, and with what stakes. Findings show an ambiguous and entertainment based throughline; many called it a community (51/71) but few claimed membership (11/71). Affiliation centered on creators rather than shared practices, with parasocial attention clustering around a small set of potential new members (PNMs) and returning figures. Higher content exposure tracked with self-identification as a community member; those members commented, followed creators, and engaged across videos. Attempts to interview creators were met with silence or refusals, reflecting community boundary-work despite viral visibility. We outline implications for platform governance, including time-bounded context, graduated visibility, and aftercare.",
+      "pdfUrl": "https://arxiv.org/pdf/2609.09331",
+      "versions": [
+        {
+          "role": "preprint",
+          "url": "https://arxiv.org/abs/2609.09331"
+        },
+        {
+          "role": "available-full-text",
+          "url": "https://arxiv.org/pdf/2609.09331"
+        }
+      ],
+      "topics": [
+        "RushTok",
+        "TikTok",
+        "event-based algorithmic communities",
+        "belonging",
+        "parasocial attention"
+      ],
+      "researchAreas": [
+        "Algorithmic Communities and Social Perception"
+      ],
+      "relatedPaperIds": [
+        "rushtok-an-evaluation-of-event-based-communities-on-tiktok",
+        "echoes-in-the-algorithm"
+      ],
+      "summary": {
+        "type": "Editorial paraphrases with source locators; not quotations.",
+        "sources": [
+          {
+            "id": "paper",
+            "url": "https://arxiv.org/html/2609.09331",
+            "version": "arXiv:2609.09331v1, September 8, 2026"
+          }
+        ],
+        "questions": [
+          {
+            "text": "Who participates in RushTok, how do they relate to its community, and what stakes accompany visibility?",
+            "sourceId": "paper",
+            "locator": "Section 1"
+          }
+        ],
+        "methods": [
+          {
+            "text": "A mixed-methods survey of 71 respondents is combined with a reflexive account of unsuccessful creator recruitment.",
+            "sourceId": "paper",
+            "locator": "Sections 3.1-3.3"
+          }
+        ],
+        "findings": [
+          {
+            "text": "Many respondents recognized a community (51/71), but only 11/71 identified as members.",
+            "sourceId": "paper",
+            "locator": "Abstract and Section 4.1.3"
+          },
+          {
+            "text": "Creator-centered attention and entertainment support participation without necessarily producing membership.",
+            "sourceId": "paper",
+            "locator": "Sections 4.1.2-4.1.4"
+          }
+        ],
+        "contributions": [
+          {
+            "text": "RushTok illustrates a community assembled around an offline ritual and sustained through recommendation.",
+            "sourceId": "paper",
+            "locator": "Sections 1 and 5"
+          }
+        ],
+        "limitations": [
+          {
+            "text": "Convenience recruitment, self-report, a predominantly female audience sample, and no completed creator interviews limit generalization and triangulation.",
+            "sourceId": "paper",
+            "locator": "Sections 3.3 and 3.4"
+          }
+        ],
+        "coverageNote": null
+      },
+      "exports": {
+        "markdown": "https://emeliahughes.com/publications/ephemeral-feeds-and-enduring-rituals.md",
+        "json": "https://emeliahughes.com/publications/ephemeral-feeds-and-enduring-rituals.json",
+        "bibtex": "https://emeliahughes.com/publications/ephemeral-feeds-and-enduring-rituals.bib"
+      },
+      "bibtex": "@misc{hughes2026260909331,\n  title = {Ephemeral Feeds and Enduring Rituals: RushTok and the Formation of Event-Based Algorithmic Communities},\n  author = {Emelia Hughes and Tim Weninger},\n  year = {2026},\n  eprint = {2609.09331},\n  archivePrefix = {arXiv},\n  primaryClass = {cs.HC},\n  doi = {10.48550/arXiv.2609.09331},\n  url = {https://arxiv.org/abs/2609.09331}\n}\n"
+    },
+    {
+      "id": "echoes-in-the-algorithm",
+      "url": "https://emeliahughes.com/publications/echoes-in-the-algorithm.html",
+      "title": "Echoes in the Algorithm: Analyzing the Fidelity of User Preferences Against Realized Platform Reach",
+      "authors": [
+        "Emelia Hughes",
+        "Tim Weninger"
+      ],
+      "year": "2026",
+      "venue": "arXiv preprint",
+      "publicationType": "preprint",
+      "status": "preprint",
+      "doi": null,
+      "arxivId": "2609.09365",
+      "preferredCitationUrl": "https://arxiv.org/abs/2609.09365",
+      "abstract": "What does popular content look like when platforms withhold the usual cues? On TikTok, users still form impressions about which videos are taking off even when likes and view counts are hidden, delayed, or pushed to the margins of the interface. We study this problem through TokOrNot, a web-based game in which participants compared pairs of TikTok videos and reported (i) which one they preferred and (ii) which one they believed had reached a larger audience. We benchmark these judgments against verified public view counts, which we use as a bounded proxy for realized platform reach. Across 3,513 judgments from 363 participants, participants identified the higher-reach video only modestly above chance (56.75%, 95% CI: 56.01-58.55). Preference aligned with the higher-view video at a similar rate, while preference and prediction matched in 83.48% of trials (95% CI: 83.12-85.95). Performance also varied across content categories. Taken together, these results do not suggest that users can reliably read platform success from content alone. Instead, they point to a looser and more uncertain interpretive process in which reach judgments often track personal taste or other weak heuristics when explicit popularity cues are absent. We discuss the implications for algorithmic literacy and for interface designs that reduce visible metrics without leaving users to infer reach from uneven or idiosyncratic cues alone.",
+      "pdfUrl": "https://arxiv.org/pdf/2609.09365",
+      "versions": [
+        {
+          "role": "preprint",
+          "url": "https://arxiv.org/abs/2609.09365"
+        },
+        {
+          "role": "available-full-text",
+          "url": "https://arxiv.org/pdf/2609.09365"
+        }
+      ],
+      "topics": [
+        "TikTok",
+        "TokOrNot",
+        "platform reach",
+        "popularity cues",
+        "preference",
+        "algorithmic literacy"
+      ],
+      "researchAreas": [
+        "Algorithmic Communities and Social Perception"
+      ],
+      "relatedPaperIds": [
+        "ephemeral-feeds-and-enduring-rituals"
+      ],
+      "summary": {
+        "type": "Editorial paraphrases with source locators; not quotations.",
+        "sources": [
+          {
+            "id": "paper",
+            "url": "https://arxiv.org/html/2609.09365v1",
+            "version": "arXiv:2609.09365v1, September 8, 2026; preprint"
+          }
+        ],
+        "questions": [
+          {
+            "text": "How accurately do people infer relative TikTok reach without metrics, and how do those judgments align with preference?",
+            "sourceId": "paper",
+            "locator": "Section 1, RQ1-RQ4"
+          }
+        ],
+        "methods": [
+          {
+            "text": "TokOrNot elicited 3,513 paired-video judgments from 363 U.S. adults, benchmarked against verified public view counts.",
+            "sourceId": "paper",
+            "locator": "Section 3"
+          }
+        ],
+        "findings": [
+          {
+            "text": "Higher-reach identification was 56.75% (95% CI 56.01-58.55); preference and prediction matched in 83.48% of trials (95% CI 83.12-85.95).",
+            "sourceId": "paper",
+            "locator": "Abstract and Section 4.1"
+          }
+        ],
+        "contributions": [
+          {
+            "text": "An empirical benchmark examines judgments of observable reach under hidden metrics rather than the recommender itself.",
+            "sourceId": "paper",
+            "locator": "Sections 1 and 5.1"
+          }
+        ],
+        "limitations": [
+          {
+            "text": "Fixed preference-first question order may anchor reach judgments. View counts are a bounded reach proxy; the task and older adult sample do not represent everyday TikTok use in full.",
+            "sourceId": "paper",
+            "locator": "Section 5.3"
+          }
+        ],
+        "coverageNote": null
+      },
+      "exports": {
+        "markdown": "https://emeliahughes.com/publications/echoes-in-the-algorithm.md",
+        "json": "https://emeliahughes.com/publications/echoes-in-the-algorithm.json",
+        "bibtex": "https://emeliahughes.com/publications/echoes-in-the-algorithm.bib"
+      },
+      "bibtex": "@misc{hughes2026260909365,\n  title = {Echoes in the Algorithm: Analyzing the Fidelity of User Preferences Against Realized Platform Reach},\n  author = {Emelia Hughes and Tim Weninger},\n  year = {2026},\n  eprint = {2609.09365},\n  archivePrefix = {arXiv},\n  primaryClass = {cs.HC},\n  doi = {10.48550/arXiv.2609.09365},\n  url = {https://arxiv.org/abs/2609.09365}\n}\n"
+    },
+    {
+      "id": "echo-chambers-information-brokers-truth-social",
+      "url": "https://emeliahughes.com/publications/echo-chambers-information-brokers-truth-social.html",
+      "title": "Echo Chambers and Information Brokers on Truth Social: A Study of Network Dynamics and Political Discourse",
+      "authors": [
+        "Emelia May Hughes",
+        "Tim Weninger"
+      ],
+      "year": "2025",
+      "venue": "Companion of the Computer-Supported Cooperative Work and Social Computing",
+      "publicationType": "poster",
+      "status": "published",
+      "doi": "10.1145/3715070.3749241",
+      "arxivId": "2509.08676",
+      "preferredCitationUrl": "https://doi.org/10.1145/3715070.3749241",
+      "abstract": "This study examines the structural dynamics of Truth Social, a politically aligned social media platform, during two major political events: the U.S. Supreme Court's overturning of Roe v. Wade and the FBI's search of Mar-a-Lago. Using a large-scale dataset of user interactions based on re-truths (platform-native reposts), we analyze how the network evolves in relation to fragmentation, polarization, and user influence. Our findings reveal a segmented and ideologically homogenous structure dominated by a small number of central figures. Political events prompt temporary consolidation around shared narratives, followed by rapid returns to fragmented, echo-chambered clusters. Centrality metrics highlight the disproportionate role of key influencers, particularly @realDonaldTrump, in shaping visibility and directing discourse. These results contribute to research on alternative platforms, political communication, and online network behavior, demonstrating how infrastructure and community dynamics together reinforce ideological boundaries and limit cross-cutting engagement.",
+      "pdfUrl": "https://arxiv.org/pdf/2509.08676",
+      "versions": [
+        {
+          "role": "published-record",
+          "url": "https://doi.org/10.1145/3715070.3749241"
+        },
+        {
+          "role": "author-manuscript",
+          "url": "https://arxiv.org/abs/2509.08676"
+        },
+        {
+          "role": "available-full-text",
+          "url": "https://arxiv.org/pdf/2509.08676"
+        }
+      ],
+      "topics": [
+        "Truth Social",
+        "network analysis",
+        "information brokers",
+        "political events",
+        "echo chambers"
+      ],
+      "researchAreas": [
+        "Visibility, Influence, and Platform Signals"
+      ],
+      "relatedPaperIds": [
+        "misinformation-or-activism-mapping-networked-moral-panic-savethechildren"
+      ],
+      "summary": {
+        "type": "Editorial paraphrases with source locators; not quotations.",
+        "sources": [
+          {
+            "id": "paper",
+            "url": "https://arxiv.org/html/2509.08676v2",
+            "version": "arXiv:2509.08676v2, revised September 11, 2026; author version of CSCW Companion 2025 poster"
+          }
+        ],
+        "questions": [
+          {
+            "text": "How does the structure of Truth Social interactions shift around major political events?",
+            "sourceId": "paper",
+            "locator": "Section 1"
+          }
+        ],
+        "methods": [
+          {
+            "text": "Re-truth network analysis examines centrality and community structure around the Roe v. Wade decision and the Mar-a-Lago search.",
+            "sourceId": "paper",
+            "locator": "Sections 2 and 3"
+          }
+        ],
+        "findings": [
+          {
+            "text": "A small set of highly central accounts shapes attention, while bridging accounts connect otherwise separated regions.",
+            "sourceId": "paper",
+            "locator": "Section 3.1.1"
+          },
+          {
+            "text": "Both events coincide with temporary consolidation followed by fragmentation; their trajectories differ.",
+            "sourceId": "paper",
+            "locator": "Sections 3.2, 3.3, and 4.3"
+          }
+        ],
+        "contributions": [
+          {
+            "text": "A cyclical account connects event-driven consolidation, influencer prominence, and recurring fragmentation.",
+            "sourceId": "paper",
+            "locator": "Section 4.3"
+          }
+        ],
+        "limitations": [
+          {
+            "text": "The sample favors active accounts; incomplete follower access limits reconstruction. Reposts do not establish user intent, and the study does not test the ranking algorithm.",
+            "sourceId": "paper",
+            "locator": "Sections 2.2, 4.4, and 4.5"
+          }
+        ],
+        "coverageNote": null
+      },
+      "exports": {
+        "markdown": "https://emeliahughes.com/publications/echo-chambers-information-brokers-truth-social.md",
+        "json": "https://emeliahughes.com/publications/echo-chambers-information-brokers-truth-social.json",
+        "bibtex": "https://emeliahughes.com/publications/echo-chambers-information-brokers-truth-social.bib"
+      },
+      "bibtex": "@inproceedings{hughes2025echochambers,\n  author = {Hughes, Emelia May and Weninger, Tim},\n  title = {Echo Chambers and Information Brokers on Truth Social: A Study of Network Dynamics and Political Discourse},\n  booktitle = {Proceedings of the Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing},\n  series = {CSCW Companion '25},\n  year = {2025},\n  publisher = {Association for Computing Machinery},\n  doi = {10.1145/3715070.3749241},\n  url = {https://doi.org/10.1145/3715070.3749241}\n}\n"
+    },
+    {
+      "id": "viblio-introducing-credibility-signals-and-citations-to-video-sharing-platforms",
+      "url": "https://emeliahughes.com/publications/viblio-introducing-credibility-signals-and-citations-to-video-sharing-platforms.html",
+      "title": "Viblio: Introducing Credibility Signals and Citations to Video-Sharing Platforms",
+      "authors": [
+        "Emelia May Hughes",
+        "Renee Wang",
+        "Prerna Juneja",
+        "Tony Li",
+        "Tanu Mitra",
+        "Amy Zhang"
+      ],
+      "year": "2024",
+      "venue": "ACM Conference on Human Factors in Computing Systems",
+      "publicationType": "conference-paper",
+      "status": "published",
+      "doi": "10.1145/3613904.3642490",
+      "arxivId": "2402.17218",
+      "preferredCitationUrl": "https://doi.org/10.1145/3613904.3642490",
+      "abstract": "As more users turn to video-sharing platforms like YouTube as an information source, they may consume misinformation despite their best efforts. In this work, we investigate ways that users can better assess the credibility of videos by first exploring how users currently determine credibility using existing signals on platforms and then by introducing and evaluating new credibility-based signals. We conducted 12 contextual inquiry interviews with YouTube users, determining that participants used a combination of existing signals, such as the channel name, the production quality, and prior knowledge, to evaluate credibility, yet sometimes stumbled in their efforts to do so. We then developed Viblio, a prototype system that enables YouTube users to view and add citations and related information while watching a video based on our participants' needs. From an evaluation with 12 people, all participants found Viblio to be intuitive and useful in the process of evaluating a video's credibility and could see themselves using Viblio in the future.",
+      "pdfUrl": "https://dl.acm.org/doi/pdf/10.1145/3613904.3642490",
+      "versions": [
+        {
+          "role": "published-record",
+          "url": "https://doi.org/10.1145/3613904.3642490"
+        },
+        {
+          "role": "author-manuscript",
+          "url": "https://arxiv.org/abs/2402.17218"
+        },
+        {
+          "role": "available-full-text",
+          "url": "https://dl.acm.org/doi/pdf/10.1145/3613904.3642490"
+        }
+      ],
+      "topics": [
+        "YouTube",
+        "credibility signals",
+        "video citations",
+        "contextual inquiry",
+        "misinformation"
+      ],
+      "researchAreas": [
+        "Publics, Credibility, and Information Systems"
+      ],
+      "relatedPaperIds": [
+        "introducing-credibility-signals-and-citations-to-video-sharing-platforms",
+        "examining-mainstream-news-media-narratives-youth-online-safety"
+      ],
+      "summary": {
+        "type": "Editorial paraphrases with source locators; not quotations.",
+        "sources": [
+          {
+            "id": "paper",
+            "url": "https://arxiv.org/html/2402.17218v1",
+            "version": "arXiv:2402.17218v1; author manuscript of CHI 2024 paper"
+          }
+        ],
+        "questions": [
+          {
+            "text": "How do viewers assess YouTube credibility, and how can citations support that assessment?",
+            "sourceId": "paper",
+            "locator": "Sections 1 and 3"
+          }
+        ],
+        "methods": [
+          {
+            "text": "Twelve contextual-inquiry interviews informed a citation prototype, followed by a reflective evaluation with twelve participants.",
+            "sourceId": "paper",
+            "locator": "Sections 3.1 and 5.1"
+          }
+        ],
+        "findings": [
+          {
+            "text": "Participants combined channel information, production quality, and prior knowledge, but encountered weaknesses in existing signals.",
+            "sourceId": "paper",
+            "locator": "Section 3.2"
+          },
+          {
+            "text": "Evaluation participants found the prototype useful and intuitive for assessing credibility.",
+            "sourceId": "paper",
+            "locator": "Abstract and Section 5.2"
+          }
+        ],
+        "contributions": [
+          {
+            "text": "A viewer-facing prototype links supporting, refuting, and contextual sources to specific moments in videos.",
+            "sourceId": "paper",
+            "locator": "Section 4"
+          }
+        ],
+        "limitations": [
+          {
+            "text": "Large-scale adoption and defenses against malicious or low-quality citations remain untested directions for future work.",
+            "sourceId": "paper",
+            "locator": "Sections 6.2 and 7"
+          }
+        ],
+        "coverageNote": null
+      },
+      "exports": {
+        "markdown": "https://emeliahughes.com/publications/viblio-introducing-credibility-signals-and-citations-to-video-sharing-platforms.md",
+        "json": "https://emeliahughes.com/publications/viblio-introducing-credibility-signals-and-citations-to-video-sharing-platforms.json",
+        "bibtex": "https://emeliahughes.com/publications/viblio-introducing-credibility-signals-and-citations-to-video-sharing-platforms.bib"
+      },
+      "bibtex": "@inproceedings{10.1145/3613904.3642490,\nauthor = {Hughes, Emelia May and Wang, Renee and Juneja, Prerna and Li, Tony W and Mitra, Tanushree and Zhang, Amy X.},\ntitle = {Viblio: Introducing Credibility Signals and Citations to Video-Sharing Platforms},\nyear = {2024},\nisbn = {9798400703300},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3613904.3642490},\ndoi = {10.1145/3613904.3642490},\nabstract = {As more users turn to video-sharing platforms like YouTube as an information source, they may consume misinformation despite their best efforts. In this work, we investigate ways that users can better assess the credibility of videos by first exploring how users currently determine credibility using existing signals on platforms and then by introducing and evaluating new credibility-based signals. We conducted 12 contextual inquiry interviews with YouTube users, determining that participants used a combination of existing signals, such as the channel name, the production quality, and prior knowledge, to evaluate credibility, yet sometimes stumbled in their efforts to do so. We then developed Viblio, a prototype system that enables YouTube users to view and add citations and related information while watching a video based on our participants’ needs. From an evaluation with 12 people, all participants found Viblio to be intuitive and useful in the process of evaluating a video’s credibility and could see themselves using Viblio in the future.},\nbooktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems},\narticleno = {807},\nnumpages = {20},\nkeywords = {Citations, Contextual Inquiry, Credibility Signals, Misinformation, Semi-Structured Interview, Social Platforms, YouTube},\nlocation = {<conf-loc>, <city>Honolulu</city>, <state>HI</state>, <country>USA</country>, </conf-loc>},\nseries = {CHI '24}\n}\n"
+    },
+    {
+      "id": "examining-mainstream-news-media-narratives-youth-online-safety",
+      "url": "https://emeliahughes.com/publications/examining-mainstream-news-media-narratives-youth-online-safety.html",
+      "title": "Examining Mainstream News Media Narratives on Youth Online Safety",
+      "authors": [
+        "Ozioma Collins Oguine",
+        "Oghenemaro Anuyah",
+        "Emelia May Hughes",
+        "Karla Badillo-Urquiola"
+      ],
+      "year": "2024",
+      "venue": "Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing",
+      "publicationType": "companion-paper",
+      "status": "published",
+      "doi": "10.1145/3678884.3681874",
+      "arxivId": null,
+      "preferredCitationUrl": "https://doi.org/10.1145/3678884.3681874",
+      "abstract": "People form their perspectives and opinions from their experiences and exposure to different information. Despite the growing literature on adolescent online safety, mainstream news media continues to be a large influence in shaping public perceptions of online safety. Understanding these narratives is essential for developing effective strategies to protect young internet users. This paper investigates the narratives surrounding youth online safety as depicted in mainstream news media. Through a systematic review of 157 news articles, we found three prevalent narratives: 1) a focus on negative youth risk experiences and heightened concerns regarding mental health issues, 2) an emphasis on restrictive practices as a primary intervention strategy, and 3) a lack of youth perspectives in online safety narratives. Our work highlights significant trends and discrepancies compared to current academic research on youth online safety. The insights from our findings offer important implications for media representation and the development of effective online safety strategies for youth. Content Warning: This paper discusses sensitive topics, such as emotional trauma, sexual exploitation, self-harm, and other adverse life events of children, which may be triggering. Reader discretion is advised.",
+      "pdfUrl": null,
+      "versions": [
+        {
+          "role": "published-record",
+          "url": "https://doi.org/10.1145/3678884.3681874"
+        }
+      ],
+      "topics": [
+        "youth online safety",
+        "news media",
+        "risk narratives",
+        "youth perspectives",
+        "platform governance"
+      ],
+      "researchAreas": [
+        "Publics, Credibility, and Information Systems"
+      ],
+      "relatedPaperIds": [
+        "viblio-introducing-credibility-signals-and-citations-to-video-sharing-platforms"
+      ],
+      "summary": {
+        "type": "Editorial paraphrases with source locators; not quotations.",
+        "sources": [
+          {
+            "id": "paper",
+            "url": "https://doi.org/10.1145/3678884.3681874",
+            "version": "CSCW Companion 2024 published paper, pp. 349-354; verified against author-supplied six-page PDF"
+          }
+        ],
+        "questions": [
+          {
+            "text": "What youth online-safety narratives appear in mainstream news, and how do they compare with academic research?",
+            "sourceId": "paper",
+            "locator": "Sections 1 and 5, printed pp. 349-350 and 353"
+          }
+        ],
+        "methods": [
+          {
+            "text": "A PRISMA-guided review screened 306 articles to 157 textual articles from selected U.S. mainstream outlets (2020-2024); researchers used deductive thematic analysis and consensus coding.",
+            "sourceId": "paper",
+            "locator": "Sections 3.1-3.4 and Table 1, printed pp. 350-351"
+          }
+        ],
+        "findings": [
+          {
+            "text": "The corpus emphasizes negative risk experiences and mental-health concerns rather than positive online experiences.",
+            "sourceId": "paper",
+            "locator": "Section 4.1, printed pp. 351-352"
+          },
+          {
+            "text": "Parental control and legislative restrictions dominate suggested interventions, with minimal youth participation.",
+            "sourceId": "paper",
+            "locator": "Section 4.2, printed p. 352"
+          },
+          {
+            "text": "Adult stakeholders dominate quoted perspectives; direct youth input is rare.",
+            "sourceId": "paper",
+            "locator": "Section 4.3, printed pp. 352-353"
+          }
+        ],
+        "contributions": [
+          {
+            "text": "Comparison with academic research motivates youth participation, digital literacy, and developmentally appropriate parental mediation as recommendations, not experimentally tested interventions.",
+            "sourceId": "paper",
+            "locator": "Sections 5-5.1, printed pp. 353-354"
+          }
+        ],
+        "limitations": [
+          {
+            "text": "Scope of evidence: the selected textual news corpus is not a direct study of youth experiences or a causal test of media effects.",
+            "sourceId": "paper",
+            "locator": "Sections 3.1-3.4 and 6, printed pp. 350-351 and 354"
+          }
+        ],
+        "coverageNote": "Verified against the full paper supplied by the author. No separate limitations section is present; the scope note describes the reported study design rather than an author-stated limitations list."
+      },
+      "exports": {
+        "markdown": "https://emeliahughes.com/publications/examining-mainstream-news-media-narratives-youth-online-safety.md",
+        "json": "https://emeliahughes.com/publications/examining-mainstream-news-media-narratives-youth-online-safety.json",
+        "bibtex": "https://emeliahughes.com/publications/examining-mainstream-news-media-narratives-youth-online-safety.bib"
+      },
+      "bibtex": "@inproceedings{10.1145/3678884.3681874, author = {Oguine, Ozioma Collins and Anuyah, Oghenemaro and Hughes, Emelia M. and Badillo-Urquiola, Karla}, title = {Examining Mainstream News Media Narratives on Youth Online Safety}, year = {2024}, isbn = {9798400711145}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3678884.3681874}, doi = {10.1145/3678884.3681874}, abstract = {People form their perspectives and opinions from their experiences and exposure to different information. Despite the growing literature on adolescent online safety, mainstream news media continues to be a large influence in shaping public perceptions of online safety. Understanding these narratives is essential for developing effective strategies to protect young internet users. This paper investigates the narratives surrounding youth online safety as depicted in mainstream news media. Through a systematic review of 157 news articles, we found three prevalent narratives: 1) a focus on negative youth risk experiences and heightened concerns regarding mental health issues, 2) an emphasis on restrictive practices as a primary intervention strategy, and 3) a lack of youth perspectives in online safety narratives. Our work highlights significant trends and discrepancies compared to current academic research on youth online safety. The insights from our findings offer important implications for media representation and the development of effective online safety strategies for youth. Content Warning: This paper discusses sensitive topics, such as emotional trauma, sexual exploitation, self-harm, and other adverse life events of children, which may be triggering. Reader discretion is advised.}, booktitle = {Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing}, pages = {349–354}, numpages = {6}, keywords = {adolescent online safety, kids online safety act, kosa, mainstream news media, mental health, social media, youth online safety}, location = {San Jose, Costa Rica}, series = {CSCW Companion '24} }\n"
+    },
+    {
+      "id": "rushtok-an-evaluation-of-event-based-communities-on-tiktok",
+      "url": "https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.html",
+      "title": "#RushTok: An Evaluation of Event-Based Communities on TikTok",
+      "authors": [
+        "Emelia May Hughes"
+      ],
+      "year": "2024",
+      "venue": "Association of Internet Researchers Annual Conference",
+      "publicationType": "doctoral-colloquium",
+      "status": "colloquium",
+      "doi": null,
+      "arxivId": null,
+      "preferredCitationUrl": "https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.html",
+      "abstract": null,
+      "pdfUrl": "https://emeliahughes.com/data/pdfs/AoIR_Doctoral_Colloquium.pdf",
+      "versions": [
+        {
+          "role": "available-full-text",
+          "url": "https://emeliahughes.com/data/pdfs/AoIR_Doctoral_Colloquium.pdf"
+        }
+      ],
+      "topics": [
+        "RushTok",
+        "TikTok",
+        "algorithmic identity",
+        "event-based communities",
+        "doctoral colloquium"
+      ],
+      "researchAreas": [],
+      "relatedPaperIds": [
+        "ephemeral-feeds-and-enduring-rituals"
+      ],
+      "summary": {
+        "type": "Editorial paraphrases with source locators; not quotations.",
+        "sources": [
+          {
+            "id": "paper",
+            "url": "https://emeliahughes.com/data/pdfs/AoIR_Doctoral_Colloquium.pdf",
+            "version": "Local doctoral colloquium research statement; cataloged for AoIR 2024"
+          }
+        ],
+        "questions": [
+          {
+            "text": "How do event-based TikTok communities form, and how do creators and viewers understand participation?",
+            "sourceId": "paper",
+            "locator": "Pages 1-3, Research Summary"
+          }
+        ],
+        "methods": [
+          {
+            "text": "The statement describes ongoing qualitative content coding and proposes creator interviews and a viewer survey.",
+            "sourceId": "paper",
+            "locator": "Pages 2-3, Research Summary"
+          }
+        ],
+        "findings": [],
+        "contributions": [
+          {
+            "text": "An early research agenda uses RushTok to study algorithmically assembled, event-based communities.",
+            "sourceId": "paper",
+            "locator": "Pages 1-3, Research Summary"
+          }
+        ],
+        "limitations": [
+          {
+            "text": "This statement proposes future studies and does not report the completed 2026 survey findings.",
+            "sourceId": "paper",
+            "locator": "Pages 2-3, Research Summary"
+          }
+        ],
+        "coverageNote": "Research proposal summary, not a report of completed empirical findings."
+      },
+      "exports": {
+        "markdown": "https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.md",
+        "json": "https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.json",
+        "bibtex": "https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.bib"
+      },
+      "bibtex": "@misc{rushtok-an-evaluation-of-event-based-communities-on-tiktok,\n  title = {#RushTok: An Evaluation of Event-Based Communities on TikTok},\n  author = {Emelia May Hughes},\n  year = {2024},\n  howpublished = {Association of Internet Researchers Annual Conference},\n  note = {doctoral-colloquium},\n  url = {https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.html}\n}\n"
+    },
+    {
+      "id": "misinformation-or-activism-mapping-networked-moral-panic-savethechildren",
+      "url": "https://emeliahughes.com/publications/misinformation-or-activism-mapping-networked-moral-panic-savethechildren.html",
+      "title": "Misinformation or Activism: Mapping Networked Moral Panic Through an Analysis of #SaveTheChildren",
+      "authors": [
+        "Rachel Elizabeth Moran",
+        "Stephen Prochaska",
+        "Isabelle Schlegel",
+        "Emelia May Hughes",
+        "Owen Prout"
+      ],
+      "year": "2021",
+      "venue": "Association of Internet Researchers Selected Papers of Internet Research",
+      "publicationType": "extended-abstract",
+      "status": "published",
+      "doi": "10.5210/spir.v2021i0.12212",
+      "arxivId": null,
+      "preferredCitationUrl": "https://doi.org/10.5210/spir.v2021i0.12212",
+      "abstract": "When looking at the recent social-political history of America it is difficult to avoid references to QAnon, a widespread, conservative-leaning conspiracy that amalgamates numerous conspiracies into a single movement. Central to the movement's growth has been a moral panic around child sex trafficking that has served as a gateway for new adherents to become exposed to broader QAnon rhetoric. QAnon's co-optation of the #SaveTheChildren (#STC) movement exemplifies this networked moral panic and has played a major role in facilitating the spread of misinformation under a banner of moral authority. This paper explores the proponents of #SaveTheChildren on social media platform Instagram—paying particular attention to their motivations, tactics and desired outcomes—in order to explore how networked social movements build knowledge and organize in spaces that are vulnerable to the spread of misinformation and conspiracy theories. Research is drawn from an inductive thematic analysis of 1,400 Instagram posts related to the #SaveTheChildren movement across 2020. Analysis illuminates how the #SaveTheChildren movement is defined more as an identity based, social-political movement rooted in moral panic— rather than one focused on truly supporting human rights. Our analysis illuminates how networked moral panics— facilitated by the affordances and tactics of social media —can bring together disparate communities to spread misinformation under the guise of activism.",
+      "pdfUrl": null,
+      "versions": [
+        {
+          "role": "published-record",
+          "url": "https://doi.org/10.5210/spir.v2021i0.12212"
+        }
+      ],
+      "topics": [
+        "Instagram",
+        "QAnon",
+        "SaveTheChildren",
+        "networked moral panic",
+        "misinformation",
+        "activism"
+      ],
+      "researchAreas": [
+        "Visibility, Influence, and Platform Signals"
+      ],
+      "relatedPaperIds": [
+        "echo-chambers-information-brokers-truth-social"
+      ],
+      "summary": {
+        "type": "Editorial paraphrases with source locators; not quotations.",
+        "sources": [
+          {
+            "id": "paper",
+            "url": "https://spir.aoir.org/ojs/index.php/spir/article/download/12212/10363",
+            "version": "AoIR Selected Papers of Internet Research 2021, extended abstract"
+          }
+        ],
+        "questions": [
+          {
+            "text": "Who posts under #SaveTheChildren, what tactics do they use, and which motivations and actions do they advocate?",
+            "sourceId": "paper",
+            "locator": "Page 2, RQ1-RQ3"
+          }
+        ],
+        "methods": [
+          {
+            "text": "Five researchers iteratively coded 1,400 Instagram posts collected across four hashtags during 2020.",
+            "sourceId": "paper",
+            "locator": "Page 2, methods paragraph"
+          }
+        ],
+        "findings": [
+          {
+            "text": "Accounts used differing visual and rhetorical strategies to circulate conspiracy narratives under a child-protection frame.",
+            "sourceId": "paper",
+            "locator": "Pages 2-3, account-level and content-level analyses"
+          }
+        ],
+        "contributions": [
+          {
+            "text": "The case connects identity, moral authority, and misinformation within networked moral panic.",
+            "sourceId": "paper",
+            "locator": "Pages 1-3"
+          }
+        ],
+        "limitations": [],
+        "coverageNote": "This is an extended abstract about hashtag-selected Instagram posts in 2020. No separate author-stated limitations section was identified."
+      },
+      "exports": {
+        "markdown": "https://emeliahughes.com/publications/misinformation-or-activism-mapping-networked-moral-panic-savethechildren.md",
+        "json": "https://emeliahughes.com/publications/misinformation-or-activism-mapping-networked-moral-panic-savethechildren.json",
+        "bibtex": "https://emeliahughes.com/publications/misinformation-or-activism-mapping-networked-moral-panic-savethechildren.bib"
+      },
+      "bibtex": "@article{Moran_Prochaska_Schlegel_Hughes_Prout_2021, title={MISINFORMATION OR ACTIVISM: MAPPING NETWORKED MORAL PANIC THROUGH AN ANALYSIS OF #SAVETHECHILDREN}, volume={2021}, url={https://spir.aoir.org/ojs/index.php/spir/article/view/12212}, DOI={10.5210/spir.v2021i0.12212}, abstractNote={When looking at the recent social-political history of America it is difficult to avoid references to QAnon, a widespread, conservative-leaning conspiracy that amalgamates numerous conspiracies into a single movement. Central to the movement's growth has been a moral panic around child sex trafficking that has served as a gateway for new adherents to become exposed to broader QAnon rhetoric. QAnon's co-optation of the #SaveTheChildren (#STC) movement exemplifies this networked moral panic and has played a major role in facilitating the spread of misinformation under a banner of moral authority. This paper explores the proponents of #SaveTheChildren on social media platform Instagram—paying particular attention to their motivations, tactics and desired outcomes—in order to explore how networked social movements build knowledge and organize in spaces that are vulnerable to the spread of misinformation and conspiracy theories. Research is drawn from an inductive thematic analysis of 1,400 Instagram posts related to the #SaveTheChildren movement across 2020. Analysis illuminates how the #SaveTheChildren movement is defined more as an identity based, social-political movement rooted in moral panic— rather than one focused on truly supporting human rights. Our analysis illuminates how networked moral panics— facilitated by the affordances and tactics of social media —can bring together disparate communities to spread misinformation under the guise of activism.}, journal={AoIR Selected Papers of Internet Research}, author={Moran, Rachel Elizabeth and Prochaska, Stephen and Schlegel, Isabelle and Hughes, Emelia May and Prout, Owen}, year={2021}, month={Sep.} }\n"
+    },
+    {
+      "id": "introducing-credibility-signals-and-citations-to-video-sharing-platforms",
+      "url": "https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.html",
+      "title": "Introducing Credibility Signals and Citations to Video-Sharing Platforms",
+      "authors": [
+        "Emelia May Hughes",
+        "Renee Wang",
+        "Prerna Juneja",
+        "Tanushree Mitra",
+        "Amy X Zhang"
+      ],
+      "year": "2021",
+      "venue": "Information Credibility & Alternative Realities in Troubled Democracies",
+      "publicationType": "workshop-paper",
+      "status": "published",
+      "doi": null,
+      "arxivId": null,
+      "preferredCitationUrl": "https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.html",
+      "abstract": "Misinformation is a growing problem in today's online information ecosystem. In particular, on major videosharing platforms, there are few signals for users to assess the credibility of the videos they encounter, even as more people turn towards them for getting information. In this work, we propose a series of designs to indicate credibility on video-sharing platforms, including via signals on video search result pages, as well as citations on video pages, using the major platform YouTube. From an initial interview study on how users perceive YouTube credibility indicators, we found that video intent and context heavily shape how a user would apply credibility signals or citations. Along with an additional planned survey, these results inform design decisions for a browser extension we will build and deploy to test our designs.",
+      "pdfUrl": "https://www.zive.info/info-credibility-workshop/papers/IntroductingCredibilitySignalsYouTube.pdf",
+      "versions": [
+        {
+          "role": "available-full-text",
+          "url": "https://www.zive.info/info-credibility-workshop/papers/IntroductingCredibilitySignalsYouTube.pdf"
+        }
+      ],
+      "topics": [
+        "YouTube",
+        "credibility signals",
+        "video citations",
+        "interface design",
+        "misinformation"
+      ],
+      "researchAreas": [],
+      "relatedPaperIds": [
+        "viblio-introducing-credibility-signals-and-citations-to-video-sharing-platforms"
+      ],
+      "summary": {
+        "type": "Editorial paraphrases with source locators; not quotations.",
+        "sources": [
+          {
+            "id": "paper",
+            "url": "https://www.zive.info/info-credibility-workshop/papers/IntroductingCredibilitySignalsYouTube.pdf",
+            "version": "ICWSM 2021 workshop paper"
+          }
+        ],
+        "questions": [
+          {
+            "text": "How should credibility information be presented on YouTube search and playback pages?",
+            "sourceId": "paper",
+            "locator": "Pages 1-2, Introduction and Study Overview"
+          }
+        ],
+        "methods": [
+          {
+            "text": "Initial interviews inform designs for credibility signals and time-linked citations, with further studies proposed.",
+            "sourceId": "paper",
+            "locator": "Pages 1-3"
+          }
+        ],
+        "findings": [
+          {
+            "text": "Initial interviews indicate that video intent and context shape how people would use credibility signals.",
+            "sourceId": "paper",
+            "locator": "Page 1, Abstract"
+          }
+        ],
+        "contributions": [
+          {
+            "text": "Early interface proposals explore third-party information and citations within YouTube.",
+            "sourceId": "paper",
+            "locator": "Pages 2-3, Study Overview"
+          }
+        ],
+        "limitations": [
+          {
+            "text": "The survey and extension deployment are planned work in this paper, not completed evaluations.",
+            "sourceId": "paper",
+            "locator": "Pages 1-3, Abstract and Methods"
+          }
+        ],
+        "coverageNote": null
+      },
+      "exports": {
+        "markdown": "https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.md",
+        "json": "https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.json",
+        "bibtex": "https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.bib"
+      },
+      "bibtex": "@misc{introducing-credibility-signals-and-citations-to-video-sharing-platforms,\n  title = {Introducing Credibility Signals and Citations to Video-Sharing Platforms},\n  author = {Emelia May Hughes and Renee Wang and Prerna Juneja and Tanushree Mitra and Amy X Zhang},\n  year = {2021},\n  howpublished = {Information Credibility & Alternative Realities in Troubled Democracies},\n  note = {workshop-paper},\n  url = {https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.html}\n}\n"
+    }
+  ]
+}

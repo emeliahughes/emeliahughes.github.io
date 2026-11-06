@@ -1,0 +1,61 @@
+# Examining Mainstream News Media Narratives on Youth Online Safety
+
+Ozioma Collins Oguine; Oghenemaro Anuyah; Emelia May Hughes; Karla Badillo-Urquiola. 2024.
+
+Venue: Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing
+Publication type: companion-paper
+Status: published
+Preferred citation: https://doi.org/10.1145/3678884.3681874
+Website record: https://emeliahughes.com/publications/examining-mainstream-news-media-narratives-youth-online-safety.html
+
+DOI: 10.1145/3678884.3681874
+
+## Author-written abstract
+
+People form their perspectives and opinions from their experiences and exposure to different information. Despite the growing literature on adolescent online safety, mainstream news media continues to be a large influence in shaping public perceptions of online safety. Understanding these narratives is essential for developing effective strategies to protect young internet users. This paper investigates the narratives surrounding youth online safety as depicted in mainstream news media. Through a systematic review of 157 news articles, we found three prevalent narratives: 1) a focus on negative youth risk experiences and heightened concerns regarding mental health issues, 2) an emphasis on restrictive practices as a primary intervention strategy, and 3) a lack of youth perspectives in online safety narratives. Our work highlights significant trends and discrepancies compared to current academic research on youth online safety. The insights from our findings offer important implications for media representation and the development of effective online safety strategies for youth. Content Warning: This paper discusses sensitive topics, such as emotional trauma, sexual exploitation, self-harm, and other adverse life events of children, which may be triggering. Reader discretion is advised.
+
+## Research summary
+
+Editorial paraphrases with source locators; not quotations.
+
+Verified against the full paper supplied by the author. No separate limitations section is present; the scope note describes the reported study design rather than an author-stated limitations list.
+
+### Research questions
+
+- What youth online-safety narratives appear in mainstream news, and how do they compare with academic research? ([Source](https://doi.org/10.1145/3678884.3681874); CSCW Companion 2024 published paper, pp. 349-354; verified against author-supplied six-page PDF; Sections 1 and 5, printed pp. 349-350 and 353)
+
+### Methods
+
+- A PRISMA-guided review screened 306 articles to 157 textual articles from selected U.S. mainstream outlets (2020-2024); researchers used deductive thematic analysis and consensus coding. ([Source](https://doi.org/10.1145/3678884.3681874); CSCW Companion 2024 published paper, pp. 349-354; verified against author-supplied six-page PDF; Sections 3.1-3.4 and Table 1, printed pp. 350-351)
+
+### Findings
+
+- The corpus emphasizes negative risk experiences and mental-health concerns rather than positive online experiences. ([Source](https://doi.org/10.1145/3678884.3681874); CSCW Companion 2024 published paper, pp. 349-354; verified against author-supplied six-page PDF; Section 4.1, printed pp. 351-352)
+- Parental control and legislative restrictions dominate suggested interventions, with minimal youth participation. ([Source](https://doi.org/10.1145/3678884.3681874); CSCW Companion 2024 published paper, pp. 349-354; verified against author-supplied six-page PDF; Section 4.2, printed p. 352)
+- Adult stakeholders dominate quoted perspectives; direct youth input is rare. ([Source](https://doi.org/10.1145/3678884.3681874); CSCW Companion 2024 published paper, pp. 349-354; verified against author-supplied six-page PDF; Section 4.3, printed pp. 352-353)
+
+### Contributions
+
+- Comparison with academic research motivates youth participation, digital literacy, and developmentally appropriate parental mediation as recommendations, not experimentally tested interventions. ([Source](https://doi.org/10.1145/3678884.3681874); CSCW Companion 2024 published paper, pp. 349-354; verified against author-supplied six-page PDF; Sections 5-5.1, printed pp. 353-354)
+
+### Limitations and scope
+
+- Scope of evidence: the selected textual news corpus is not a direct study of youth experiences or a causal test of media effects. ([Source](https://doi.org/10.1145/3678884.3681874); CSCW Companion 2024 published paper, pp. 349-354; verified against author-supplied six-page PDF; Sections 3.1-3.4 and 6, printed pp. 350-351 and 354)
+
+## Topics
+
+youth online safety, news media, risk narratives, youth perspectives, platform governance
+
+## Available versions
+
+- [published-record](https://doi.org/10.1145/3678884.3681874)
+
+## Related research
+
+- [Viblio: Introducing Credibility Signals and Citations to Video-Sharing Platforms](https://emeliahughes.com/publications/viblio-introducing-credibility-signals-and-citations-to-video-sharing-platforms.md) (conference-paper, 2024)
+
+## BibTeX
+
+```bibtex
+@inproceedings{10.1145/3678884.3681874, author = {Oguine, Ozioma Collins and Anuyah, Oghenemaro and Hughes, Emelia M. and Badillo-Urquiola, Karla}, title = {Examining Mainstream News Media Narratives on Youth Online Safety}, year = {2024}, isbn = {9798400711145}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3678884.3681874}, doi = {10.1145/3678884.3681874}, abstract = {People form their perspectives and opinions from their experiences and exposure to different information. Despite the growing literature on adolescent online safety, mainstream news media continues to be a large influence in shaping public perceptions of online safety. Understanding these narratives is essential for developing effective strategies to protect young internet users. This paper investigates the narratives surrounding youth online safety as depicted in mainstream news media. Through a systematic review of 157 news articles, we found three prevalent narratives: 1) a focus on negative youth risk experiences and heightened concerns regarding mental health issues, 2) an emphasis on restrictive practices as a primary intervention strategy, and 3) a lack of youth perspectives in online safety narratives. Our work highlights significant trends and discrepancies compared to current academic research on youth online safety. The insights from our findings offer important implications for media representation and the development of effective online safety strategies for youth. Content Warning: This paper discusses sensitive topics, such as emotional trauma, sexual exploitation, self-harm, and other adverse life events of children, which may be triggering. Reader discretion is advised.}, booktitle = {Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing}, pages = {349–354}, numpages = {6}, keywords = {adolescent online safety, kids online safety act, kosa, mainstream news media, mental health, social media, youth online safety}, location = {San Jose, Costa Rica}, series = {CSCW Companion '24} }
+```

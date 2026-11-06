@@ -1,0 +1,22 @@
+# Emelia Hughes — Research
+
+> Social computing and human-computer interaction research at the University of Notre Dame.
+
+## Research catalog
+
+[Structured research index](https://emeliahughes.com/research-index.json): Bibliographic facts, publication status, topics, source-backed summaries, and citations.
+
+## Papers
+
+- [Ephemeral Feeds and Enduring Rituals: RushTok and the Formation of Event-Based Algorithmic Communities](https://emeliahughes.com/publications/ephemeral-feeds-and-enduring-rituals.md): 2026; preprint.
+- [Echoes in the Algorithm: Analyzing the Fidelity of User Preferences Against Realized Platform Reach](https://emeliahughes.com/publications/echoes-in-the-algorithm.md): 2026; preprint.
+- [Echo Chambers and Information Brokers on Truth Social: A Study of Network Dynamics and Political Discourse](https://emeliahughes.com/publications/echo-chambers-information-brokers-truth-social.md): 2025; poster.
+- [Viblio: Introducing Credibility Signals and Citations to Video-Sharing Platforms](https://emeliahughes.com/publications/viblio-introducing-credibility-signals-and-citations-to-video-sharing-platforms.md): 2024; conference-paper.
+- [Examining Mainstream News Media Narratives on Youth Online Safety](https://emeliahughes.com/publications/examining-mainstream-news-media-narratives-youth-online-safety.md): 2024; companion-paper.
+- [#RushTok: An Evaluation of Event-Based Communities on TikTok](https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.md): 2024; doctoral-colloquium.
+- [Misinformation or Activism: Mapping Networked Moral Panic Through an Analysis of #SaveTheChildren](https://emeliahughes.com/publications/misinformation-or-activism-mapping-networked-moral-panic-savethechildren.md): 2021; extended-abstract.
+- [Introducing Credibility Signals and Citations to Video-Sharing Platforms](https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.md): 2021; workshop-paper.
+
+## Citation and evidence notes
+
+Use the published DOI when supplied; arXiv and published versions are distinguished in each record. Summaries are paraphrases with source locators, not quotations. Research proposals and preprints must not be treated as completed peer-reviewed publications. Abstract-only summaries are marked. These files describe the research and do not grant additional reuse rights.

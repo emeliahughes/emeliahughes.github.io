@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "introducing-credibility-signals-and-citations-to-video-sharing-platforms",
+  "url": "https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.html",
+  "title": "Introducing Credibility Signals and Citations to Video-Sharing Platforms",
+  "authors": [
+    "Emelia May Hughes",
+    "Renee Wang",
+    "Prerna Juneja",
+    "Tanushree Mitra",
+    "Amy X Zhang"
+  ],
+  "year": "2021",
+  "venue": "Information Credibility & Alternative Realities in Troubled Democracies",
+  "publicationType": "workshop-paper",
+  "status": "published",
+  "doi": null,
+  "arxivId": null,
+  "preferredCitationUrl": "https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.html",
+  "abstract": "Misinformation is a growing problem in today's online information ecosystem. In particular, on major videosharing platforms, there are few signals for users to assess the credibility of the videos they encounter, even as more people turn towards them for getting information. In this work, we propose a series of designs to indicate credibility on video-sharing platforms, including via signals on video search result pages, as well as citations on video pages, using the major platform YouTube. From an initial interview study on how users perceive YouTube credibility indicators, we found that video intent and context heavily shape how a user would apply credibility signals or citations. Along with an additional planned survey, these results inform design decisions for a browser extension we will build and deploy to test our designs.",
+  "pdfUrl": "https://www.zive.info/info-credibility-workshop/papers/IntroductingCredibilitySignalsYouTube.pdf",
+  "versions": [
+    {
+      "role": "available-full-text",
+      "url": "https://www.zive.info/info-credibility-workshop/papers/IntroductingCredibilitySignalsYouTube.pdf"
+    }
+  ],
+  "topics": [
+    "YouTube",
+    "credibility signals",
+    "video citations",
+    "interface design",
+    "misinformation"
+  ],
+  "researchAreas": [],
+  "relatedPaperIds": [
+    "viblio-introducing-credibility-signals-and-citations-to-video-sharing-platforms"
+  ],
+  "summary": {
+    "type": "Editorial paraphrases with source locators; not quotations.",
+    "sources": [
+      {
+        "id": "paper",
+        "url": "https://www.zive.info/info-credibility-workshop/papers/IntroductingCredibilitySignalsYouTube.pdf",
+        "version": "ICWSM 2021 workshop paper"
+      }
+    ],
+    "questions": [
+      {
+        "text": "How should credibility information be presented on YouTube search and playback pages?",
+        "sourceId": "paper",
+        "locator": "Pages 1-2, Introduction and Study Overview"
+      }
+    ],
+    "methods": [
+      {
+        "text": "Initial interviews inform designs for credibility signals and time-linked citations, with further studies proposed.",
+        "sourceId": "paper",
+        "locator": "Pages 1-3"
+      }
+    ],
+    "findings": [
+      {
+        "text": "Initial interviews indicate that video intent and context shape how people would use credibility signals.",
+        "sourceId": "paper",
+        "locator": "Page 1, Abstract"
+      }
+    ],
+    "contributions": [
+      {
+        "text": "Early interface proposals explore third-party information and citations within YouTube.",
+        "sourceId": "paper",
+        "locator": "Pages 2-3, Study Overview"
+      }
+    ],
+    "limitations": [
+      {
+        "text": "The survey and extension deployment are planned work in this paper, not completed evaluations.",
+        "sourceId": "paper",
+        "locator": "Pages 1-3, Abstract and Methods"
+      }
+    ],
+    "coverageNote": null
+  },
+  "exports": {
+    "markdown": "https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.md",
+    "json": "https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.json",
+    "bibtex": "https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.bib"
+  },
+  "bibtex": "@misc{introducing-credibility-signals-and-citations-to-video-sharing-platforms,\n  title = {Introducing Credibility Signals and Citations to Video-Sharing Platforms},\n  author = {Emelia May Hughes and Renee Wang and Prerna Juneja and Tanushree Mitra and Amy X Zhang},\n  year = {2021},\n  howpublished = {Information Credibility & Alternative Realities in Troubled Democracies},\n  note = {workshop-paper},\n  url = {https://emeliahughes.com/publications/introducing-credibility-signals-and-citations-to-video-sharing-platforms.html}\n}\n"
+}

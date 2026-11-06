@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "echoes-in-the-algorithm",
+  "url": "https://emeliahughes.com/publications/echoes-in-the-algorithm.html",
+  "title": "Echoes in the Algorithm: Analyzing the Fidelity of User Preferences Against Realized Platform Reach",
+  "authors": [
+    "Emelia Hughes",
+    "Tim Weninger"
+  ],
+  "year": "2026",
+  "venue": "arXiv preprint",
+  "publicationType": "preprint",
+  "status": "preprint",
+  "doi": null,
+  "arxivId": "2609.09365",
+  "preferredCitationUrl": "https://arxiv.org/abs/2609.09365",
+  "abstract": "What does popular content look like when platforms withhold the usual cues? On TikTok, users still form impressions about which videos are taking off even when likes and view counts are hidden, delayed, or pushed to the margins of the interface. We study this problem through TokOrNot, a web-based game in which participants compared pairs of TikTok videos and reported (i) which one they preferred and (ii) which one they believed had reached a larger audience. We benchmark these judgments against verified public view counts, which we use as a bounded proxy for realized platform reach. Across 3,513 judgments from 363 participants, participants identified the higher-reach video only modestly above chance (56.75%, 95% CI: 56.01-58.55). Preference aligned with the higher-view video at a similar rate, while preference and prediction matched in 83.48% of trials (95% CI: 83.12-85.95). Performance also varied across content categories. Taken together, these results do not suggest that users can reliably read platform success from content alone. Instead, they point to a looser and more uncertain interpretive process in which reach judgments often track personal taste or other weak heuristics when explicit popularity cues are absent. We discuss the implications for algorithmic literacy and for interface designs that reduce visible metrics without leaving users to infer reach from uneven or idiosyncratic cues alone.",
+  "pdfUrl": "https://arxiv.org/pdf/2609.09365",
+  "versions": [
+    {
+      "role": "preprint",
+      "url": "https://arxiv.org/abs/2609.09365"
+    },
+    {
+      "role": "available-full-text",
+      "url": "https://arxiv.org/pdf/2609.09365"
+    }
+  ],
+  "topics": [
+    "TikTok",
+    "TokOrNot",
+    "platform reach",
+    "popularity cues",
+    "preference",
+    "algorithmic literacy"
+  ],
+  "researchAreas": [
+    "Algorithmic Communities and Social Perception"
+  ],
+  "relatedPaperIds": [
+    "ephemeral-feeds-and-enduring-rituals"
+  ],
+  "summary": {
+    "type": "Editorial paraphrases with source locators; not quotations.",
+    "sources": [
+      {
+        "id": "paper",
+        "url": "https://arxiv.org/html/2609.09365v1",
+        "version": "arXiv:2609.09365v1, September 8, 2026; preprint"
+      }
+    ],
+    "questions": [
+      {
+        "text": "How accurately do people infer relative TikTok reach without metrics, and how do those judgments align with preference?",
+        "sourceId": "paper",
+        "locator": "Section 1, RQ1-RQ4"
+      }
+    ],
+    "methods": [
+      {
+        "text": "TokOrNot elicited 3,513 paired-video judgments from 363 U.S. adults, benchmarked against verified public view counts.",
+        "sourceId": "paper",
+        "locator": "Section 3"
+      }
+    ],
+    "findings": [
+      {
+        "text": "Higher-reach identification was 56.75% (95% CI 56.01-58.55); preference and prediction matched in 83.48% of trials (95% CI 83.12-85.95).",
+        "sourceId": "paper",
+        "locator": "Abstract and Section 4.1"
+      }
+    ],
+    "contributions": [
+      {
+        "text": "An empirical benchmark examines judgments of observable reach under hidden metrics rather than the recommender itself.",
+        "sourceId": "paper",
+        "locator": "Sections 1 and 5.1"
+      }
+    ],
+    "limitations": [
+      {
+        "text": "Fixed preference-first question order may anchor reach judgments. View counts are a bounded reach proxy; the task and older adult sample do not represent everyday TikTok use in full.",
+        "sourceId": "paper",
+        "locator": "Section 5.3"
+      }
+    ],
+    "coverageNote": null
+  },
+  "exports": {
+    "markdown": "https://emeliahughes.com/publications/echoes-in-the-algorithm.md",
+    "json": "https://emeliahughes.com/publications/echoes-in-the-algorithm.json",
+    "bibtex": "https://emeliahughes.com/publications/echoes-in-the-algorithm.bib"
+  },
+  "bibtex": "@misc{hughes2026260909365,\n  title = {Echoes in the Algorithm: Analyzing the Fidelity of User Preferences Against Realized Platform Reach},\n  author = {Emelia Hughes and Tim Weninger},\n  year = {2026},\n  eprint = {2609.09365},\n  archivePrefix = {arXiv},\n  primaryClass = {cs.HC},\n  doi = {10.48550/arXiv.2609.09365},\n  url = {https://arxiv.org/abs/2609.09365}\n}\n"
+}

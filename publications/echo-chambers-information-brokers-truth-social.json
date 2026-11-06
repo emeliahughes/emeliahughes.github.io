@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "echo-chambers-information-brokers-truth-social",
+  "url": "https://emeliahughes.com/publications/echo-chambers-information-brokers-truth-social.html",
+  "title": "Echo Chambers and Information Brokers on Truth Social: A Study of Network Dynamics and Political Discourse",
+  "authors": [
+    "Emelia May Hughes",
+    "Tim Weninger"
+  ],
+  "year": "2025",
+  "venue": "Companion of the Computer-Supported Cooperative Work and Social Computing",
+  "publicationType": "poster",
+  "status": "published",
+  "doi": "10.1145/3715070.3749241",
+  "arxivId": "2509.08676",
+  "preferredCitationUrl": "https://doi.org/10.1145/3715070.3749241",
+  "abstract": "This study examines the structural dynamics of Truth Social, a politically aligned social media platform, during two major political events: the U.S. Supreme Court's overturning of Roe v. Wade and the FBI's search of Mar-a-Lago. Using a large-scale dataset of user interactions based on re-truths (platform-native reposts), we analyze how the network evolves in relation to fragmentation, polarization, and user influence. Our findings reveal a segmented and ideologically homogenous structure dominated by a small number of central figures. Political events prompt temporary consolidation around shared narratives, followed by rapid returns to fragmented, echo-chambered clusters. Centrality metrics highlight the disproportionate role of key influencers, particularly @realDonaldTrump, in shaping visibility and directing discourse. These results contribute to research on alternative platforms, political communication, and online network behavior, demonstrating how infrastructure and community dynamics together reinforce ideological boundaries and limit cross-cutting engagement.",
+  "pdfUrl": "https://arxiv.org/pdf/2509.08676",
+  "versions": [
+    {
+      "role": "published-record",
+      "url": "https://doi.org/10.1145/3715070.3749241"
+    },
+    {
+      "role": "author-manuscript",
+      "url": "https://arxiv.org/abs/2509.08676"
+    },
+    {
+      "role": "available-full-text",
+      "url": "https://arxiv.org/pdf/2509.08676"
+    }
+  ],
+  "topics": [
+    "Truth Social",
+    "network analysis",
+    "information brokers",
+    "political events",
+    "echo chambers"
+  ],
+  "researchAreas": [
+    "Visibility, Influence, and Platform Signals"
+  ],
+  "relatedPaperIds": [
+    "misinformation-or-activism-mapping-networked-moral-panic-savethechildren"
+  ],
+  "summary": {
+    "type": "Editorial paraphrases with source locators; not quotations.",
+    "sources": [
+      {
+        "id": "paper",
+        "url": "https://arxiv.org/html/2509.08676v2",
+        "version": "arXiv:2509.08676v2, revised September 11, 2026; author version of CSCW Companion 2025 poster"
+      }
+    ],
+    "questions": [
+      {
+        "text": "How does the structure of Truth Social interactions shift around major political events?",
+        "sourceId": "paper",
+        "locator": "Section 1"
+      }
+    ],
+    "methods": [
+      {
+        "text": "Re-truth network analysis examines centrality and community structure around the Roe v. Wade decision and the Mar-a-Lago search.",
+        "sourceId": "paper",
+        "locator": "Sections 2 and 3"
+      }
+    ],
+    "findings": [
+      {
+        "text": "A small set of highly central accounts shapes attention, while bridging accounts connect otherwise separated regions.",
+        "sourceId": "paper",
+        "locator": "Section 3.1.1"
+      },
+      {
+        "text": "Both events coincide with temporary consolidation followed by fragmentation; their trajectories differ.",
+        "sourceId": "paper",
+        "locator": "Sections 3.2, 3.3, and 4.3"
+      }
+    ],
+    "contributions": [
+      {
+        "text": "A cyclical account connects event-driven consolidation, influencer prominence, and recurring fragmentation.",
+        "sourceId": "paper",
+        "locator": "Section 4.3"
+      }
+    ],
+    "limitations": [
+      {
+        "text": "The sample favors active accounts; incomplete follower access limits reconstruction. Reposts do not establish user intent, and the study does not test the ranking algorithm.",
+        "sourceId": "paper",
+        "locator": "Sections 2.2, 4.4, and 4.5"
+      }
+    ],
+    "coverageNote": null
+  },
+  "exports": {
+    "markdown": "https://emeliahughes.com/publications/echo-chambers-information-brokers-truth-social.md",
+    "json": "https://emeliahughes.com/publications/echo-chambers-information-brokers-truth-social.json",
+    "bibtex": "https://emeliahughes.com/publications/echo-chambers-information-brokers-truth-social.bib"
+  },
+  "bibtex": "@inproceedings{hughes2025echochambers,\n  author = {Hughes, Emelia May and Weninger, Tim},\n  title = {Echo Chambers and Information Brokers on Truth Social: A Study of Network Dynamics and Political Discourse},\n  booktitle = {Proceedings of the Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing},\n  series = {CSCW Companion '25},\n  year = {2025},\n  publisher = {Association for Computing Machinery},\n  doi = {10.1145/3715070.3749241},\n  url = {https://doi.org/10.1145/3715070.3749241}\n}\n"
+}

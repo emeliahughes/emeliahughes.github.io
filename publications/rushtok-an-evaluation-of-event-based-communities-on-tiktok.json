@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "rushtok-an-evaluation-of-event-based-communities-on-tiktok",
+  "url": "https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.html",
+  "title": "#RushTok: An Evaluation of Event-Based Communities on TikTok",
+  "authors": [
+    "Emelia May Hughes"
+  ],
+  "year": "2024",
+  "venue": "Association of Internet Researchers Annual Conference",
+  "publicationType": "doctoral-colloquium",
+  "status": "colloquium",
+  "doi": null,
+  "arxivId": null,
+  "preferredCitationUrl": "https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.html",
+  "abstract": null,
+  "pdfUrl": "https://emeliahughes.com/data/pdfs/AoIR_Doctoral_Colloquium.pdf",
+  "versions": [
+    {
+      "role": "available-full-text",
+      "url": "https://emeliahughes.com/data/pdfs/AoIR_Doctoral_Colloquium.pdf"
+    }
+  ],
+  "topics": [
+    "RushTok",
+    "TikTok",
+    "algorithmic identity",
+    "event-based communities",
+    "doctoral colloquium"
+  ],
+  "researchAreas": [],
+  "relatedPaperIds": [
+    "ephemeral-feeds-and-enduring-rituals"
+  ],
+  "summary": {
+    "type": "Editorial paraphrases with source locators; not quotations.",
+    "sources": [
+      {
+        "id": "paper",
+        "url": "https://emeliahughes.com/data/pdfs/AoIR_Doctoral_Colloquium.pdf",
+        "version": "Local doctoral colloquium research statement; cataloged for AoIR 2024"
+      }
+    ],
+    "questions": [
+      {
+        "text": "How do event-based TikTok communities form, and how do creators and viewers understand participation?",
+        "sourceId": "paper",
+        "locator": "Pages 1-3, Research Summary"
+      }
+    ],
+    "methods": [
+      {
+        "text": "The statement describes ongoing qualitative content coding and proposes creator interviews and a viewer survey.",
+        "sourceId": "paper",
+        "locator": "Pages 2-3, Research Summary"
+      }
+    ],
+    "findings": [],
+    "contributions": [
+      {
+        "text": "An early research agenda uses RushTok to study algorithmically assembled, event-based communities.",
+        "sourceId": "paper",
+        "locator": "Pages 1-3, Research Summary"
+      }
+    ],
+    "limitations": [
+      {
+        "text": "This statement proposes future studies and does not report the completed 2026 survey findings.",
+        "sourceId": "paper",
+        "locator": "Pages 2-3, Research Summary"
+      }
+    ],
+    "coverageNote": "Research proposal summary, not a report of completed empirical findings."
+  },
+  "exports": {
+    "markdown": "https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.md",
+    "json": "https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.json",
+    "bibtex": "https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.bib"
+  },
+  "bibtex": "@misc{rushtok-an-evaluation-of-event-based-communities-on-tiktok,\n  title = {#RushTok: An Evaluation of Event-Based Communities on TikTok},\n  author = {Emelia May Hughes},\n  year = {2024},\n  howpublished = {Association of Internet Researchers Annual Conference},\n  note = {doctoral-colloquium},\n  url = {https://emeliahughes.com/publications/rushtok-an-evaluation-of-event-based-communities-on-tiktok.html}\n}\n"
+}
